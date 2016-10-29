@@ -1,2 +1,2 @@
 # Simple-calculator
-# My firts program
+# My first program
